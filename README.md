@@ -1,2 +1,2 @@
 # HLTB-Scrapper
-Scrapper How Long to Beat
+Web Scrapper para armar un repositorio de datos de HowLongToBeat.com
