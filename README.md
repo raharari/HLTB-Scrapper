@@ -6,3 +6,5 @@ El repositorio cuenta con las siguientes notebooks de Jupyter:
 
  - Scrapper de la web https://howlongtobeat.com
  - Limpieza y preparado de los datos para aplicar un modelo de regresion que prediga el Rating de un videojuego en base a sus caracteristicas
+
+Por otro lado, se encuentra el archivo en formato Excel de la data scrapeada
